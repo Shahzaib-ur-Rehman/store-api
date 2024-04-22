@@ -18,7 +18,7 @@ Store API is a RESTful API designed to manage products with search functionality
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/store-api.git`
+1. Clone the repository: `git clone https://github.com/Shahzaib-ur-Rehman/store-api.git`
 2. Navigate to the project directory: `cd store-api`
 3. Install dependencies: `npm install`
 4. Configure environment variables: Create a `.env` file in the root directory and define necessary variables like database connection string, port, etc.
