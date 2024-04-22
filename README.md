@@ -53,5 +53,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Acknowledgements
 
-- Inspiration: [[Provide any inspiration or references here](https://www.youtube.com/watch?v=qwfE7fSVaZM&t=18698s&ab_channel=freeCodeCamp.org)]
+- Inspiration: [[FreeCodeCamp](https://www.youtube.com/watch?v=qwfE7fSVaZM&t=18698s&ab_channel=freeCodeCamp.org)]
 - Special thanks to contributors and supporters of the project.
